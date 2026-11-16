@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://robcast13.github.io/goldcorehvac/sitemap.xml
